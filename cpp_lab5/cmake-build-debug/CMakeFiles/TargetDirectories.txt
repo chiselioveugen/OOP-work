@@ -1,0 +1,3 @@
+D:/UNIVERSITATE/OOP/cpp_lab5/cmake-build-debug/CMakeFiles/cpp_lab5.dir
+D:/UNIVERSITATE/OOP/cpp_lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNIVERSITATE/OOP/cpp_lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
