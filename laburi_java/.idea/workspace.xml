@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67c8e74e-b37a-48de-b632-28307d39b5f0" name="Default Changelist" comment="" />
+    <list default="true" id="67c8e74e-b37a-48de-b632-28307d39b5f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/atestare/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,63 +82,120 @@
     <session id="-503395103">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="18" />
+          <entry key="java" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2940" />
+          <entry key="java" value="4850" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2940" />
+          <entry key="JAVA" value="4850" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab7/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lab8/GeometricBody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab7/TextParser.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Cub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="89" lean-forward="true" selection-start-line="6" selection-end-line="89" />
+            <state relative-caret-position="425">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Parallelepiped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Sphere.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/GeometricBodyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -190,6 +250,19 @@
         <option value="$PROJECT_DIR$/src/lab6/SurgicalTechnologist.java" />
         <option value="$PROJECT_DIR$/src/lab7/Main.java" />
         <option value="$PROJECT_DIR$/src/lab7/TextParser.java" />
+        <option value="$PROJECT_DIR$/src/atestare/Product.java" />
+        <option value="$PROJECT_DIR$/src/atestare/Buy.java" />
+        <option value="$PROJECT_DIR$/src/atestare/C3.java" />
+        <option value="$PROJECT_DIR$/src/atestare/C1.java" />
+        <option value="$PROJECT_DIR$/src/atestare/Main.java" />
+        <option value="$PROJECT_DIR$/src/atestare/C.java" />
+        <option value="$PROJECT_DIR$/src/atestare/Check.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Cub.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Parallelepiped.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Sphere.java" />
+        <option value="$PROJECT_DIR$/src/lab8/GeometricBodyController.java" />
+        <option value="$PROJECT_DIR$/src/lab8/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab8/GeometricBody.java" />
       </list>
     </option>
   </component>
@@ -200,7 +273,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -210,7 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,20 +299,21 @@
               <item name="laburi_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="laburi_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539850497569" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541059151088" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,9 +323,11 @@
       <recent name="D:\UNIVERSITATE\OOP\laburi\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab8" />
       <recent name="lab3.task1" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="atestare" />
       <recent name="lab6" />
       <recent name="lab3.task1" />
     </key>
@@ -269,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab7.Main" />
       <module name="Lab1" />
@@ -283,12 +358,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.task2.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atestare.Main" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.task2.*" />
+          <option name="PATTERN" value="atestare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,11 +372,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="alina.Main" />
+      <option name="MAIN_CLASS_NAME" value="lab8.Main" />
       <module name="Lab1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="alina.*" />
+          <option name="PATTERN" value="lab8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,19 +405,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -370,18 +445,23 @@
       <workItem from="1539237106585" duration="3159000" />
       <workItem from="1539840177143" duration="579000" />
       <workItem from="1539840822202" duration="1575000" />
-      <workItem from="1539842736466" duration="5570000" />
+      <workItem from="1539842736466" duration="5653000" />
+      <workItem from="1540221986742" duration="2728000" />
+      <workItem from="1540374317518" duration="1945000" />
+      <workItem from="1540378200695" duration="123000" />
+      <workItem from="1540378382698" duration="31000" />
+      <workItem from="1541056937641" duration="2174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34597000" />
+    <option name="totallyTimeSpent" value="41681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2439825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18380743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,8 +469,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3274918" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3274918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -398,7 +478,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.14750542" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -628,21 +708,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab7/TextParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="89" lean-forward="true" selection-start-line="6" selection-end-line="89" />
+        <state relative-caret-position="646">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atestare/C1.java" />
+    <entry file="file://$PROJECT_DIR$/src/atestare/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/atestare/C3.java" />
+    <entry file="file://$PROJECT_DIR$/src/atestare/C.java" />
+    <entry file="file://$PROJECT_DIR$/src/atestare/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atestare/Buy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atestare/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Cub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Parallelepiped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Sphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/GeometricBodyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/GeometricBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
